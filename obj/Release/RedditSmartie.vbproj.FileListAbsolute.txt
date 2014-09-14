@@ -1,0 +1,6 @@
+C:\Users\Marice\Documents\GitHub\RedditSmartie\bin\RedditSmartie.dll
+C:\Users\Marice\Documents\GitHub\RedditSmartie\bin\RedditSmartie.xml
+C:\Users\Marice\Documents\GitHub\RedditSmartie\bin\Newtonsoft.Json.dll
+C:\Users\Marice\Documents\GitHub\RedditSmartie\bin\Newtonsoft.Json.xml
+C:\Users\Marice\Documents\GitHub\RedditSmartie\obj\Release\RedditSmartie.dll
+C:\Users\Marice\Documents\GitHub\RedditSmartie\obj\Release\RedditSmartie.xml
